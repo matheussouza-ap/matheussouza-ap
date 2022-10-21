@@ -2,7 +2,7 @@
 
 
 - 🔭 Em busca do primeiro emprego
-- 👨🏼‍💻 Futuro Front-End | Fullstack
+- 👨🏼‍💻 Futuro Front-End | Design UX/UI
 - 🌱 Estudante de Ciências da Computação
 - 💬 Contate-me no email: carbonari1.aparecido@gmail.com
 - 😄 Pronomes: ele/dele
