@@ -1,11 +1,10 @@
 ## Olá! Eu sou o Matheus Aparecido👋
 
 
-- 🔭 Em busca do primeiro emprego
-- 👨🏼‍💻 Futuro Front-End | Design UX/UI
+- 🔭 Desenvolvedor de Software - Banco do Bradesco
+- 👨🏼‍💻 Front-End | Design UX/UI | Back-End
 - 🌱 Estudante de Ciências da Computação
 - 💬 Contate-me no email: carbonari1.aparecido@gmail.com
-- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/matheussouza-ap">
@@ -18,7 +17,10 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Rafa-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-     <img align="center" alt="Rafa-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+     <img align="center" alt="Rafa-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    <img align="center" alt="Rafa-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Rafa-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    
 </div>
   
   ##
